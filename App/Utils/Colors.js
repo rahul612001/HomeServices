@@ -1,0 +1,9 @@
+export default{
+    BLACK:"#000",
+    PRIMARY:'#8E3FFF',
+    WHITE:"#FFFFFF",
+    LIGHT_GRAY:"#EDEDED",
+    LIGHT_GRAY1:"#E0E0E0",
+    PRIMARY_LIGHT:"#E1BEE7",
+    GRAY:"#9E9E9E"
+}
